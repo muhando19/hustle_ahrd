@@ -1,0 +1,234 @@
+
+
+.header {
+    height: 150px;
+    background-color: #003333 ;
+    margin: -10px;
+    filter: brightness(90%);
+    padding-left: 20px;
+    border-bottom: 1px solid black;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 7px 15px 8px rgba(0, 0, 0, 0.58);
+    position: fixed;
+    width: 100%;
+}
+
+.left-column {
+    padding-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+    font-style: italic;
+    font-size: 2em;
+}
+
+.left-column > .icon {
+    margin-right: 10px;
+}
+
+.left-column > .title {
+    margin-right: 15px;
+}
+.left-column > .title a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.left-column > .title a:hover{
+    color: aquamarine;
+}
+.right-column {
+    padding-right: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.right-column > .links-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links-wrapper > .nav-link {
+    width: 180px;
+    text-align: center;
+}
+
+.links-wrapper > .nav-link a {
+    text-decoration: none;
+    background-color: black;
+    padding: 3px 20px 3px 20px;
+    color: whitesmoke;
+    border-radius: 10px;
+    font-size: 1.5em;
+    font-family: "Ubuntu Condensed", sans-serif;
+    transition: 0.5s;
+}
+
+.links-wrapper > .nav-link a:hover {
+    color: aqua;
+
+}
+
+.links-wrapper > .nav-link + label {
+    color: black;
+    background-color: whitesmoke;
+}
+
+.intro {
+    background-color: #006666;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 300px;
+    padding-top: 100px;
+}
+
+.intro > .intro-2 {
+    width: 60%;
+    text-align: center;
+    font-family: "Ubuntu Condensed", sans-serif;
+    font-size: 1.6em;
+    padding-top: 20px;
+    padding-right: 40px;
+    letter-spacing: 2px;
+    line-height: 1.6em;
+    padding-top: 40px;
+}
+
+.intro > .intro-1 {
+    width: 60%;
+    padding-left: 60px;
+    letter-spacing: 2px;
+    font-family: "Ubuntu Condensed", sans-serif;
+    font-size: 1.3em;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.spacer-60 {
+    width: 100%;
+    height: 70px;
+    background-color: #006666;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.get-started {
+    background-size: cover;
+    background-color: #006666;
+    background-attachment: fixed;
+    padding-top: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.get-started > .arrow-right {
+    margin-right: 3px;
+    font-size: 3em;
+    font-weight: 900;
+}
+
+.get-started > .alison {
+    background-color: black;
+    padding: 1px 30px 1px 30px ;
+    border-radius: 25px;
+}
+
+.get-started > .alison a {
+    text-decoration: none;
+    color: whitesmoke;
+    transition: 0.5s;
+}
+
+.get-started > .alison a:hover {
+    color: aquamarine;
+}
+
+.get-started > .arrow-left {
+    margin-left: 3px;
+    font-size: 3em;
+    font-weight: 900;
+}
+
+.youtube-wrapper {
+    padding: 20px 20px 20px 20px;
+    background-color: #006666;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+    background-color: #006666;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+    line-height: 2em;
+    font-family: "Ubuntu Condensed", sans-serif;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 20px 20px 20px;
+}
+
+.directives {
+    background-color: #006666;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.directives > .heading {
+    display: flex;
+    justify-content: center;
+    ;
+}
+
+.directives > .heading a {
+    text-decoration: none;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: -3px;
+    border-radius: 10px;
+    border-bottom: 3px solid transparent;
+    transition: 0.5s;
+}
+
+.directives > .heading a:hover {
+    border-bottom: 3px solid black;
+    letter-spacing: 2px;
+}
+
+.essay {
+    width: 80%;
+    padding-top: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    font-size: 2em;
+    letter-spacing: 2px;
+    line-height: 4em;
+    padding-left: 90px;
+    padding-right: 90px;
+    font-family: "Ubuntu Condensed", sans-serif;
+}

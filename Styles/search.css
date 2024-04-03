@@ -1,0 +1,19 @@
+.search {
+    padding-top: 180px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.search > .search-bar{
+    padding-right: 10px;    
+}
+
+.search > .search-bar input {
+    width: 600px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 1.5em;
+}
+
+ 

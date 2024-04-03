@@ -1,0 +1,212 @@
+@media (max-width: 700px){
+     .header {
+        display: flex;
+        flex-direction: column;
+        height: 200px;
+     }
+
+     .header > .left-column {
+        order: 1;
+
+     }
+
+     .header > .right-column {
+        order: 2;
+        padding-bottom: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 100%;
+     }
+
+     .header > .right-column > .links-wrapper >{
+        display: flex;
+        justify-content: center;
+     }
+
+     .header > .right-column > .links-wrapper > .nav-link{
+        font-size: 0.8em;
+        margin-left: 10px;
+        margin-right: 10px;
+     }
+
+     .intro {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-top: 270px;
+     }
+
+     .intro > .intro-1{
+        order: 1;
+        width: 100%;
+        text-align: center;
+     }
+
+     .intro > .intro-2{
+        order: 2;
+        width: 80%;
+        text-align: center;
+        padding-left:60px;
+        font-size: 1.6em;
+        letter-spacing: 1.8px;
+        line-height: 1.7em;
+     }
+
+     .content{
+        text-align: center;
+     }
+
+     .directives > .heading {
+        font-size: 0.8em;
+        width: 100%;
+        padding-left: 15px;
+        text-align: center;
+     }
+
+     .affiliates > .row-1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+     }
+
+     .affiliates > .row-2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+     }
+
+     .affiliates > .row-1 > .first-wrap {
+        width: 60%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 110px;
+        margin-bottom: 20px;
+     }
+
+     .affiliates > .row-1 > .second-wrap {
+        width: 60%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 110px;
+        margin-bottom: 20px;
+     }
+
+     .affiliates > .row-1 > .third-wrap {
+        width: 60%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 110px;
+        margin-bottom: 20px;
+     }
+
+     .affiliates > .row-1 > .fourth-wrap {
+        width: 60%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 110px;
+        margin-bottom: 20px;
+     }
+
+     .affiliates > .row-2 > .fifth-wrap {
+        width: 60%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 110px;
+        margin-bottom: 20px;
+     }
+
+     .affiliates > .row-2 > .sixth-wrap {
+        width: 60%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 110px;
+        margin-bottom: 20px;
+     }
+
+     .affiliates > .row-2 > .seventh-wrap {
+        width: 60%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 110px;
+        margin-bottom: 20px;
+     }
+
+     .affiliates > .row-2 > .eighth-wrap {
+        width: 60%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 110px;
+        margin-bottom: 20px;
+     }
+
+     .form {
+        display: flex;
+        justify-content: center;
+        
+     }
+
+
+     .footer {
+        display: flex;
+        flex-direction: column;
+        height: 400px;
+        width: 100%;
+     }
+
+     .footer > .title{
+        order: 1;
+        margin-top: -30px;
+     }
+
+
+     .footer > .links-wrapper {
+        order: 2;
+        margin-top: 30px;
+        padding-bottom: 30px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 100%;
+     }
+
+     .footer > .socials {
+        margin-top: 60px;
+        margin-bottom: -50px;
+        order: 3;
+        padding-bottom: 30px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 100%;
+     }
+
+     .copyright-wrap{
+        order: 4;
+        margin-top: 150px;
+     }
+
+
+
+     .search{
+        padding-top: 230px;
+     }
+
+     .essay {
+        padding-top: 200px;
+        text-align: center;
+     }
+
+
+
+     
+}

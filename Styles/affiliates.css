@@ -1,0 +1,446 @@
+.affiliates {
+    background-color: #006666;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.affiliates > .row-1 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+
+.affiliates > .row-2 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.affiliates > .row-1 > .first-wrap{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    background: rgb(117,115,143);
+    background: linear-gradient(90deg, rgba(117,115,143,1) 38%, rgba(0,102,102,1) 100%);
+    border: 4px solid black;
+    border-radius: 20px;
+    box-shadow: 7px 15px 8px rgba(0, 0, 0, 0.58);
+}
+
+.affiliates > .row-1 > .first-wrap > .heading {
+    text-align: center;
+}
+
+.affiliates > .row-1 > .first-wrap > .youtube img{
+    width: 350px;
+    height: 400px;
+    border-radius: 15px;
+}
+
+.affiliates > .row-1 > .first-wrap > .youtube-text{
+    width: 350px;
+    height: 220px;
+    text-align: center;
+    font-family: "Ubuntu Condensed", sans-serif;
+    letter-spacing: 1.7px;
+    font-size: 1.1em;
+}
+
+.affiliates > .row-1 > .first-wrap > .redirect{
+    text-align: center;
+}
+
+.affiliates > .row-1 > .first-wrap > .redirect a{
+    text-decoration: none;
+    color: #006666;
+    background-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    font-size: 1.4em;
+    border-radius: 5px;
+}
+
+.affiliates > .row-1 > .first-wrap > .redirect a:hover {
+    color: whitesmoke;
+}
+
+
+
+.affiliates > .row-1 > .second-wrap{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    background: rgb(117,115,143);
+    background: linear-gradient(90deg, rgba(117,115,143,1) 38%, rgba(0,102,102,1) 100%);
+    border: 4px solid black;
+    border-radius: 20px;
+    box-shadow: 7px 15px 8px rgba(0, 0, 0, 0.58);
+}
+
+.affiliates > .row-1 > .second-wrap > .heading {
+    text-align: center;
+}
+
+
+.affiliates > .row-1 > .second-wrap > .youtube img{
+    width: 350px;
+    height: 400px;
+    border-radius: 15px;
+
+}
+
+.affiliates > .row-1 > .second-wrap > .youtube-text{
+    width: 350px;
+    height: 220px;
+    text-align: center;
+    font-family: "Ubuntu Condensed", sans-serif;
+    letter-spacing: 1.7px;
+    font-size: 1.1em;
+}
+
+.affiliates > .row-1 > .second-wrap > .redirect{
+    text-align: center;
+}
+
+.affiliates > .row-1 > .second-wrap > .redirect a{
+    text-decoration: none;
+    color: #006666;
+    background-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    font-size: 1.4em;
+    border-radius: 5px;
+}
+
+.affiliates > .row-1 > .second-wrap > .redirect a:hover {
+    color: whitesmoke;
+}
+
+.affiliates > .row-1 > .third-wrap{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    background: rgb(117,115,143);
+    background: linear-gradient(90deg, rgba(117,115,143,1) 38%, rgba(0,102,102,1) 100%);
+    border: 4px solid black;
+    border-radius: 20px;
+    box-shadow: 7px 15px 8px rgba(0, 0, 0, 0.58);
+}
+
+.affiliates > .row-1 > .third-wrap > .heading {
+    text-align: center;
+}
+
+
+.affiliates > .row-1 > .third-wrap > .youtube img{
+    width: 350px;
+    height: 400px;
+    border-radius: 15px;
+
+}
+
+.affiliates > .row-1 > .third-wrap > .youtube-text{
+    width: 350px;
+    height: 220px;
+    text-align: center;
+    font-family: "Ubuntu Condensed", sans-serif;
+    letter-spacing: 1.7px;
+    font-size: 1.1em;
+}
+
+.affiliates > .row-1 > .third-wrap > .redirect{
+    text-align: center;
+}
+
+
+.affiliates > .row-1 > .third-wrap > .redirect a{
+    text-decoration: none;
+    color: #006666;
+    background-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    font-size: 1.4em;
+    border-radius: 5px;
+}
+
+.affiliates > .row-1 > .third-wrap > .redirect a:hover {
+    color: whitesmoke;
+}
+
+.affiliates > .row-1 > .fourth-wrap{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    background: rgb(117,115,143);
+    background: linear-gradient(90deg, rgba(117,115,143,1) 38%, rgba(0,102,102,1) 100%);
+    border: 4px solid black;
+    border-radius: 20px;
+    box-shadow: 7px 15px 8px rgba(0, 0, 0, 0.58);
+}
+
+.affiliates > .row-1 > .fourth-wrap > .heading {
+    text-align: center;
+}
+
+.affiliates > .row-1 > .fourth-wrap > .youtube img{
+    width: 350px;
+    height: 400px;
+    border-radius: 15px;
+
+}
+
+.affiliates > .row-1 > .fourth-wrap > .youtube-text{
+    width: 350px;
+    height: 220px;
+    text-align: center;
+    font-family: "Ubuntu Condensed", sans-serif;
+    letter-spacing: 1.7px;
+    font-size: 1.1em;
+}
+
+.affiliates > .row-1 > .fourth-wrap > .redirect{
+    text-align: center;
+}
+
+
+.affiliates > .row-1 > .fourth-wrap > .redirect a{
+    text-decoration: none;
+    color: #006666;
+    background-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    font-size: 1.4em;
+    border-radius: 5px;
+}
+
+.affiliates > .row-1 > .fourth-wrap > .redirect a:hover {
+    color: whitesmoke;
+}
+
+.affiliates > .row-2 > .fifth-wrap{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    background: rgb(117,115,143);
+    background: linear-gradient(90deg, rgba(117,115,143,1) 38%, rgba(0,102,102,1) 100%);
+    border: 4px solid black;
+    border-radius: 20px;
+    box-shadow: 7px 15px 8px rgba(0, 0, 0, 0.58);
+}
+
+.affiliates > .row-2 > .fifth-wrap > .heading {
+    text-align: center;
+}
+
+
+.affiliates > .row-2 > .fifth-wrap > .youtube img{
+    width: 350px;
+    height: 400px;
+    border-radius: 15px;
+
+}
+
+.affiliates > .row-2 > .fifth-wrap > .youtube-text{
+    width: 350px;
+    height: 220px;
+    text-align: center;
+    font-family: "Ubuntu Condensed", sans-serif;
+    letter-spacing: 1.7px;
+    font-size: 1.1em;
+}
+
+.affiliates > .row-2 > .fifth-wrap > .redirect{
+    text-align: center;
+}
+
+
+.affiliates > .row-2 > .fifth-wrap > .redirect a{
+    text-decoration: none;
+    color: #006666;
+    background-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    font-size: 1.4em;
+    border-radius: 5px;
+}
+
+.affiliates > .row-2 > .fifth-wrap > .redirect a:hover {
+    color: whitesmoke;
+}
+
+.affiliates > .row-2 > .sixth-wrap{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    background: rgb(117,115,143);
+    background: linear-gradient(90deg, rgba(117,115,143,1) 38%, rgba(0,102,102,1) 100%);
+    border: 4px solid black;
+    border-radius: 20px;
+    box-shadow: 7px 15px 8px rgba(0, 0, 0, 0.58);
+}
+
+.affiliates > .row-2 > .sixth-wrap > .heading {
+    text-align: center;
+}
+
+.affiliates > .row-2 > .sixth-wrap > .youtube img{
+    width: 350px;
+    height: 400px;
+    border-radius: 15px;
+
+}
+
+.affiliates > .row-2 > .sixth-wrap > .youtube-text{
+    width: 350px;
+    height: 220px;
+    text-align: center;
+    font-family: "Ubuntu Condensed", sans-serif;
+    letter-spacing: 1.7px;
+    font-size: 1.1em;
+}
+
+
+.affiliates > .row-2 > .sixth-wrap > .redirect{
+    text-align: center;
+}
+
+.affiliates > .row-2 > .sixth-wrap > .redirect a{
+    text-decoration: none;
+    color: #006666;
+    background-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    font-size: 1.4em;
+    border-radius: 5px;
+}
+
+.affiliates > .row-2 > .sixth-wrap > .redirect a:hover {
+    color: whitesmoke;
+}
+
+.affiliates > .row-2 > .seventh-wrap{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    background: rgb(117,115,143);
+    background: linear-gradient(90deg, rgba(117,115,143,1) 38%, rgba(0,102,102,1) 100%);
+    border: 4px solid black;
+    border-radius: 20px;
+    box-shadow: 7px 15px 8px rgba(0, 0, 0, 0.58);
+}
+
+.affiliates > .row-2 > .seventh-wrap > .heading {
+    text-align: center;
+}
+
+.affiliates > .row-2 > .seventh-wrap > .youtube img{
+    width: 350px;
+    height: 400px;
+    border-radius: 15px;
+
+}
+
+.affiliates > .row-2 > .seventh-wrap > .youtube-text{
+    width: 350px;
+    height: 220px;
+    text-align: center;
+    font-family: "Ubuntu Condensed", sans-serif;
+    letter-spacing: 1.7px;
+    font-size: 1.1em;
+}
+
+.affiliates > .row-2 > .seventh-wrap > .redirect{
+    text-align: center;
+}
+
+
+.affiliates > .row-2 > .seventh-wrap > .redirect a{
+    text-decoration: none;
+    color: #006666;
+    background-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    font-size: 1.4em;
+    border-radius: 5px;
+}
+
+.affiliates > .row-2 > .seventh-wrap > .redirect a:hover {
+    color: whitesmoke;
+}
+
+.affiliates > .row-2 > .eighth-wrap{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    background: rgb(117,115,143);
+    background: linear-gradient(90deg, rgba(117,115,143,1) 38%, rgba(0,102,102,1) 100%);
+    border: 4px solid black;
+    border-radius: 20px;
+    box-shadow: 7px 15px 8px rgba(0, 0, 0, 0.58);
+}
+
+.affiliates > .row-2 > .eighth-wrap > .heading {
+    text-align: center;
+}
+
+.affiliates > .row-2 > .eighth-wrap > .youtube img{
+    width: 350px;
+    height: 400px;
+    border-radius: 15px;
+
+}
+
+.affiliates > .row-2 > .eighth-wrap > .youtube-text{
+    width: 350px;
+    height: 220px;
+    text-align: center;
+    font-family: "Ubuntu Condensed", sans-serif;
+    letter-spacing: 1.7px;
+    font-size: 1.1em;
+}
+
+.affiliates > .row-2 > .eighth-wrap > .redirect{
+    text-align: center;
+}
+
+
+.affiliates > .row-2 > .eighth-wrap > .redirect a{
+    text-decoration: none;
+    color: #006666;
+    background-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    font-size: 1.4em;
+    border-radius: 5px;
+}
+
+.affiliates > .row-2 > .eighth-wrap > .redirect a:hover {
+    color: whitesmoke;
+}
